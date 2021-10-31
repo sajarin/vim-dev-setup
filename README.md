@@ -6,6 +6,4 @@ The aim of this project is to host a few vimrcs that are sorted by how close it 
 
 .minimalvimrc = a vimrc with no plugins
 
-.vimrc = a vimrc with plugins
-
-.maximalvimrc = my personal vimrc with heavy usage of plugins and macros
+.vimrc = my personal vimrc with all my plugins, settings, sorted by relevance.
